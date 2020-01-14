@@ -3,6 +3,7 @@ node_modules
 out
 dist
 /dist
+lib
 
 # local env files
 .env.local
