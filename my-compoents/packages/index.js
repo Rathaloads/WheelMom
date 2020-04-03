@@ -20,7 +20,3 @@ export default {
   install,
   test
 }
-
-export {
-  test
-}
