@@ -2,11 +2,11 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
-import YYUi from '~/index'
+import PyUi from '~/index'
 
 Vue.config.productionTip = false
 
-Vue.use(YYUi)
+Vue.use(PyUi)
 
 new Vue({
   router,

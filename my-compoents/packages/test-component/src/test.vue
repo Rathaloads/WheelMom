@@ -9,7 +9,7 @@ export default {
   name: 'TestComponent',
 
   props: {
-    name: { type: String, default: '' }
+    name: { type: String, default: '123' }
   },
 
   data() {
